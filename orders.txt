@@ -1,0 +1,10 @@
+OrderID: 1001 | Date: 2026-05-26 | Customer: Alice Johnson | Product: Apple iPhone 15 Pro | Qty: 1 | Price: $999.00 | Status: Shipped
+OrderID: 1002 | Date: 2026-05-25 | Customer: Bob Martinez | Product: Sony WH-1000XM5 Headphones | Qty: 2 | Price: $349.99 | Status: Processing
+OrderID: 1003 | Date: 2026-05-24 | Customer: Carol Singh | Product: Dell XPS 13 Laptop | Qty: 1 | Price: $1199.00 | Status: Delivered
+OrderID: 1004 | Date: 2026-05-26 | Customer: Daniel Kim | Product: LEGO Star Wars Millennium Falcon | Qty: 1 | Price: $159.99 | Status: Processing
+OrderID: 1005 | Date: 2026-05-23 | Customer: Emma López | Product: Patagonia Nano Puff Jacket | Qty: 1 | Price: $199.00 | Status: Shipped
+OrderID: 1006 | Date: 2026-05-22 | Customer: Frank O'Neal | Product: Yeti Rambler 30oz Tumbler | Qty: 3 | Price: $39.99 | Status: Delivered
+OrderID: 1007 | Date: 2026-05-26 | Customer: Grace Wu | Product: Fujifilm X-T5 Mirrorless Camera | Qty: 1 | Price: $1699.00 | Status: Processing
+OrderID: 1008 | Date: 2026-05-21 | Customer: Hector Alvarez | Product: Ninja Foodi 9-in-1 Pressure Cooker | Qty: 1 | Price: $149.99 | Status: Delivered
+OrderID: 1009 | Date: 2026-05-20 | Customer: Isla Brown | Product: Samsung Galaxy Tab S9 | Qty: 1 | Price: $799.99 | Status: Shipped
+OrderID: 1010 | Date: 2026-05-19 | Customer: Jake Patel | Product: Anker PowerCore 20,000mAh Portable Charger | Qty: 2 | Price: $49.99 | Status: Delivered
